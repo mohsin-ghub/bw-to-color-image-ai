@@ -15,7 +15,6 @@ This project uses PyTorch to convert grayscale images to color using a Convoluti
 
 ## 🚀 How to Run
 
-```bash
 # Install dependencies
 pip install -r requirements.txt
 
@@ -24,3 +23,10 @@ python train.py
 
 # Test the model
 python test.py
+
+## 📌 Note
+
+The CIFAR-10 dataset is auto-downloaded
+
+Trained model files and data are excluded from GitHub using .gitignore
+
